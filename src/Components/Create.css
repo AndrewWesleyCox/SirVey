@@ -1,0 +1,42 @@
+.createFormLine {
+    margin: auto;
+    text-align: center;
+    width: 60%;
+    align-content: center;
+    margin-bottom: 3vh;
+    padding: 1%;
+    border: 2px solid gray;
+    background-color: lightgray;
+    border-radius: 50px;
+  
+    
+}
+
+.createFormTextBox {
+    margin: auto;
+    width: 50%;
+    display: inline;
+}
+
+.createFormButton {
+    width: 20%;
+    margin: 1%;
+    min-height: 3vh;
+    font-size: medium;
+
+}
+
+.createFormRemove {
+    margin: 1%;
+    border-radius: 20px;
+    border: 2px solid gray;
+    font-size: large;
+}
+
+.createFormRemove:hover {
+    background-color: lightcoral;
+}
+
+.createFormLabel {
+    margin: 1%;
+}

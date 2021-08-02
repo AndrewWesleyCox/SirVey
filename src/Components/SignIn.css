@@ -1,0 +1,31 @@
+.loginFormLine {
+    margin: auto;
+    text-align: center;
+    width: 40%;
+    align-content: center;
+    margin-bottom: 3vh;
+    padding: 1%;
+    border: 2px solid gray;
+    background-color: lightgray;
+    border-radius: 50px;
+}
+
+.loginFormTextBox {
+    margin: auto;
+    width: 40%;
+    margin-bottom: 2vh;
+}
+
+.loginFormLabel {
+    text-align: left;
+    align-content: left;
+    margin-left: 0; 
+    width: 40%;
+}
+
+.loginFormbtn {
+    width: 20%;
+    margin: 1%;
+    min-height: 3vh;
+    font-size: medium;
+}

@@ -1,0 +1,13 @@
+
+.aboutCard {
+    width: 20rem;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 2rem;
+    min-height: 20rem;
+
+}
+
+.aboutImage {
+    height: 15rem;
+}
